@@ -18,14 +18,14 @@
 
 <br />
 
-Hi, I'm [Adithya Menon S](https://adithyamenon.tech/), an enthusiastic full stack developer  and a cyber security enthusiast . I create and contribute on various open source projects - love to breach and gain access control   . I do various research on technology which helps me to understand more and to learn the emerging technology . I freequently participate in various hackathons which make me a strong hacker.
+Hi, I'm [Yogesh B K](https://cipherinfoline.cf), an Full stack developer and a future aspiring Pen Tester.I love to write backend code and crazy stuffs.Like a freelancer I do many hackathons.My great strength is my team.I would love to penetrate Machines as much I can.
 
 Basically I dont restrict to a particular tech stack or domain . Being a versatile hacker I love to experiecne different flavours of available and emerging domains so that I can bring crazy ideas to life. 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: []();
+- 📫 How to reach me: [](bkyogesh28@gmail.com);
 - 📝 [Resume]()
 
 
@@ -34,7 +34,7 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/AWS/AWS.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -45,9 +45,9 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 53 mins   ██████████████▓░░░░░░░░░░   59.33 % 
-Mysql        3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
-Java         3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
+JavaScript        9 hrs 53 mins   ██████████████▓░░░░░░░░░░   59.33 % 
+Flutter           3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+Pen Testing       3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   28.36 % 
 ```
 <!--END_SECTION:waka-->
 
