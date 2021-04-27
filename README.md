@@ -1,6 +1,6 @@
 ### 
-![Yogesh B K]
-<img src=" https://bkyogesh28.github.io/">
+
+<img src=" https://bkyogesh28.github.io/" width="100px" heigt="100px">
 
 <a href="https://discord.gg/qb49MB2g">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/discord.svg" />
