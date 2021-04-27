@@ -7,11 +7,11 @@
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/bk-yogesh/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/spotify.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adithya-adi-menon.adithya-adi-menon)
