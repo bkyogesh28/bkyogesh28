@@ -11,10 +11,10 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/instagram.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=adithya-adi-menon.adithya-adi-menon)
+![](https://visitor-badge.glitch.me/badge?page_id=bkyogesh28.bkyogesh28)
 
 <br />
 
@@ -38,7 +38,7 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
@@ -53,10 +53,10 @@ Java         3 hrs 3 mins    ████▓░░░░░░░░░░░░
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/adithyamenon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/bkyogesh28" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithya-adi-menon&show_icons=true&theme=gotham" alt="Adithya Menon S" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bkyogesh28&show_icons=true&theme=gotham" alt="Yogesh B K" />
 <!--
 **Adithya-adi-Menon/adithya-adi-menon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
