@@ -26,7 +26,7 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
   <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Ping me](https://www.linkedin.com/in/bk-yogesh/);
+- 📫 How to reach me: [Make a Ping](https://www.linkedin.com/in/bk-yogesh/);
 - 📝 [Resume]()
 
 
