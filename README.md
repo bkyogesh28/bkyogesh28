@@ -2,7 +2,7 @@
 ![Adithya Menon](https://github.com/Adithya-adi-Menon/Hosting/blob/main/Adithya%20Menon.gif?raw=true)
 
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/discord.svg" />
+  <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/twitter.svg" />
